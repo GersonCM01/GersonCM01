@@ -1,48 +1,42 @@
 # 👋 Hi, I'm Gerson Condori
 
-Computer Engineering student with a solid foundation in **HTML, CSS, and Java**.
-I am focused on building structured, responsive, and maintainable applications,
-combining clean design with efficient logic.
+I am a **Computer Engineering student** with a professional approach to software development.
+Throughout my academic training, I have developed a strong foundation in **HTML, CSS, and Java**,
+applying these skills in coursework and personal projects.
 
-I enjoy learning new technologies, improving my problem-solving skills,
-and applying my knowledge in academic and real-world projects.
+I stand out for my responsibility, commitment to learning, and ability to adapt to new
+technologies and development environments. I am motivated to gain hands-on experience
+through professional internships where I can contribute, learn, and grow as a developer.
 
 ---
 
-## 🎯 Professional Profile
+## 🎓 Academic & Professional Focus
 - Computer Engineering student
-- Frontend-oriented developer
-- Strong logical thinking and attention to detail
-- Motivated to learn and grow in professional environments
+- Strong interest in web development
+- Solid understanding of programming fundamentals
+- Continuous learning mindset
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
 - **HTML5** – Semantic structure and accessibility
 - **CSS3** – Responsive design, Flexbox, Grid
-- **Java** – Object-Oriented Programming, academic projects
+- **Java** – Object-Oriented Programming and academic projects
 
-### Tools & Technologies
+### Tools
 - Git & GitHub
 - MySQL (basic)
-- VS Code
+- Visual Studio Code
 - Linux (basic)
 
 ---
 
-## 🚀 Currently Learning
-- Improving frontend best practices
-- Enhancing Java programming skills
-- Clean code and software structure
-
----
-
-## 📌 Objectives
-- Obtain professional internship opportunities
-- Gain real-world development experience
-- Contribute to team-based software projects
+## 🎯 Professional Objective
+To obtain an **internship opportunity** where I can apply my academic knowledge,
+develop real-world software solutions, and strengthen my professional skills
+within a collaborative team.
 
 ---
 
