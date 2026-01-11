@@ -4,7 +4,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Qxd296ZWpud3hyem81d3lmcjA5ZHBiZHN6bzYxb2lqZzh6eXJoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7uhBIeOnnaHDJtQbyd/giphy.gif" width="30px">&nbsp;***About me***
 
-I’m a Computer Science and Informatics Technician and currently a university student halfway through my degree, passionate about software development and continuous learning. I’m expanding my knowledge in new languages and technologies, both in frontend and backend, with the goal of building useful, innovative, and well-structured solutions.
+I’m a Computer Science and Informatics Technician and currently pursuing a university degree in Systems Engineering, halfway through my program. I’m passionate about software development and continuous learning, constantly expanding my skills in new languages and technologies across both frontend and backend to build useful, innovative, and well-structured solutions.
 
 I’m currently focused on strengthening my skills and sharing my growth through personal projects on GitHub, where I document and publish new ideas so others can learn, collaborate, or get inspired.
 - 🌱 Currently learning
