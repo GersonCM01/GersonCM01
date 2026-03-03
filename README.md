@@ -9,7 +9,7 @@ I’m a Computer Science and Informatics Technician and currently pursuing a uni
 I’m currently focused on strengthening my skills and sharing my growth through personal projects on GitHub, where I document and publish new ideas so others can learn, collaborate, or get inspired.
 - 🌱 Currently learning
   - Python.
-  - Angular.
+  - Kotlin.
   - Development best practices and software architecture.
 - 📂 About my projects
   - Development of personal projects to improve my skills.
