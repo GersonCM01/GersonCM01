@@ -50,6 +50,7 @@ I’m currently focused on strengthening my skills and sharing my growth through
 </a>
 <a href= "">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord">
-</a><a href= "https://www.youtube.com/@gersoncondori5779">
+</a>
+<a href= "https://www.youtube.com/@gersoncondori5779">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Youtube">
 </a>
