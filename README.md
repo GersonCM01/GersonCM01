@@ -44,15 +44,8 @@ I’m currently focused on strengthening my skills and sharing my growth through
 </div>
 
 ## Check out my Social Media
-
-<div align = "left">
-  <a href= "https://www.instagram.com/gerecm17/">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instragram">
-  </a>
-  <a href= "">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord">
-  </a>
-  <a href= "https://www.youtube.com/@gersoncondori5779">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Youtube">
-  </a>
+<div align="left">
+  <a href="https://www.instagram.com/gerecm17/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"></a>
+  <a href="https://www.youtube.com/@gersoncondori5779"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="Youtube"></a>
 </div>
