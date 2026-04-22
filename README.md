@@ -45,6 +45,13 @@ I’m currently focused on strengthening my skills and sharing my growth through
 
 ## Check out my Social Media
 <div align = "left">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+</div>
+
+<div align = "left">
   <a href= "https://www.instagram.com/gerecm17/">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instragram">
   </a>
